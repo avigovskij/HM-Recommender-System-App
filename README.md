@@ -1,4 +1,4 @@
-# *Проект по рекомендательным системам, авторы*
+# *Проект по рекомендательным системам, магистров ПИ НИТУ МИСИС*
 Author: [Khoner Pavel](https://github.com/pavelkhoner)
         [Alex Sander]()
         [Anton Vigovskij]()
